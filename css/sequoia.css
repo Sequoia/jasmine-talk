@@ -1,0 +1,28 @@
+.reveal .slides .oneXone .fragment.visible{
+	opacity:.3;
+}
+.reveal .slides .oneXone .fragment.visible.currentFragment{
+	opacity:1;
+}
+.reveal ol, .reveal ul{
+	margin-bottom:25px;
+}
+.reveal li{
+	margin-bottom:15px;
+}
+h2,h1{
+	margin-bottom:35px;
+}
+.left-column{
+	width:49%;
+	float:right;
+}
+.reveal .slides .long-lists{
+	text-align:left;
+}
+.reveal .slides .long-lists ul li{
+	margin-bottom:.1em;
+}
+pre{
+	font-weight:bold!important;
+}
